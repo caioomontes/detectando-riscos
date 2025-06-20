@@ -1,4 +1,4 @@
-# detectando-riscos
+# Detectando Riscos
 
 Como arquiteto de Big Data em uma equipe de saúde, recebi a missão de identificar riscos cardíacos em pacientes. Com base nos dados de peso e colesterol, apliquei o algoritmo de clusterização K-means para segmentar os pacientes em três grupos: baixo, moderado e alto risco cardiovascular.
 
