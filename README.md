@@ -1,9 +1,5 @@
 # Análise de Risco Cardiovascular com K-Means
 
-Este projeto foi desenvolvido como parte do **Desafio Prático do Módulo 1** do bootcamp **Arquiteto(a) de Big Data**, e tem como foco a aplicação de técnicas de machine learning para identificação de riscos de saúde relacionados a doenças cardiovasculares.
-
----
-
 ## 🩺 Situação-Problema
 
 Doenças cardiovasculares seguem como uma das principais causas de morte no mundo. A obesidade e os altos níveis de colesterol estão entre os principais fatores de risco. No entanto, nem sempre é viável realizar exames laboratoriais em larga escala, o que dificulta o diagnóstico precoce.
